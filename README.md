@@ -1,7 +1,8 @@
 # LoRaWAN_TTN_Gas_Counter
 
 Description : 
- - A low power gas datalogger node for the ThingsNetwork with deepsleep support using a LMIC OTAA.  
+ - A low power gas datalogger node for the ThingsNetwork with deepsleep support using a LMIC OTAA. 
+ - Inspired by https://github.com/ph2lb/LoRaWAN_TTN_Env_Node 
  
  
 Hardware used : 
